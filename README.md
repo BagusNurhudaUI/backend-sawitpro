@@ -19,11 +19,11 @@ e. the result is seperate by text and image\
 
 
 \
-Result Text
+Result Text\
 ![img.png](img.png)
 ![img_1.png](img_1.png)\
 \
-Result Image
+Result Image\
 ![img_2.png](img_2.png)\
 ![img_3.png](img_3.png)
 
