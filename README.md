@@ -15,4 +15,16 @@ a. Upload app can found at Upload.Java file\
 b-d. Ocr app can found at App.java file\
 e. the result is seperate by text and image\
 &nbsp;&nbsp;&nbsp;- .txt file (chine.txt & english.txt)\
-&nbsp;&nbsp;&nbsp;-  image file (result.png)
+&nbsp;&nbsp;&nbsp;-  image file (result.png)\
+
+
+\
+Result Text
+![img.png](img.png)
+![img_1.png](img_1.png)\
+\
+Result Image
+![img_2.png](img_2.png)\
+![img_3.png](img_3.png)
+
+

@@ -19,7 +19,7 @@ public class App
         String urlImage2 = "https://lh5.googleusercontent.com/W9jmYbsTl1Ug2Xi7bKpSqACD4c1-Ku4dmGbebKvpCoDYIomCBv0kXNBckAmxZV_xrug=w2400";
         String urlImage3 = "https://lh4.googleusercontent.com/rrJ9_c_4jcUu6zRGEwN6qX_Zq-0E8fpRbHNVHsLIWLwu-db4c8lpBVMEmp9elUs4jBw=w2400";
         String urlImage4 = "https://lh6.googleusercontent.com/eVnDc43gE2ni3hmm4lbrmEiuMqPTmwMBXqzxCHp-NdfztvTJIS9Ij9Zcpl8iN_c3I0I=w2400";
-        ocrApi(urlImage3);
+        ocrApi(urlImage1);
     }
 
     public static void ocrApi(String url) throws IOException, InterruptedException {
